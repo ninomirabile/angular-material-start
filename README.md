@@ -5,19 +5,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Getting Started
 
 1. Clone the repo:
-
+```npm
 $ git clone https://github.com/ninomirabile/angular-material-start.git
-
+```
 2. Cd into the folder, angular-material-start
 
 3. Run npm install
-
+```npm
 $ npm install
-
+```
 4. Serve the app at localhost:4200
-
+```npm
 $ ng serve
-
+```
 
 ## Development server
 
