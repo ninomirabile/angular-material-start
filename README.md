@@ -2,6 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
+##Getting Started
+
+1. Clone the repo:
+$ git clone https://github.com/ninomirabile/angular-material-start.git
+
+2. Cd into the folder, angular-material-start
+
+3. Run npm install
+$ npm install
+
+4. Serve the app at localhost:4200
+$ ng serve
+
 
 ## Development server
 
